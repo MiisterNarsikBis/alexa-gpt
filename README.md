@@ -84,3 +84,31 @@ Dans la section **Build**, ouvrez l’onglet **JSON Editor**.
     }
   }
 }
+
+## 8. Sauvegarde et construction
+Cliquez sur **Save Model**, puis sur **Build Model** pour générer le modèle.  
+
+---
+
+## 9. Création d’une clé OpenAI
+- Rendez-vous dans votre compte OpenAI, section **API keys**.  
+- Cliquez sur **+ Create new secret key** pour générer une clé.  
+
+---
+
+## 12. Ajout de la clé API
+Ajoutez la clé OpenAI obtenue dans la variable :  
+**openai_api_key**.  
+
+---
+
+## 13. Activation en mode développement
+- Sauvegardez et déployez.  
+- Allez dans la section **Test**.  
+- Activez **Skill testing in Development**.  
+
+---
+
+## 14. Utilisation
+Votre Alexa est maintenant prête à fonctionner en **mode ChatGPT** 🎉  
+Vous devriez voir apparaître des réponses similaires à celles du modèle ChatGPT.  
